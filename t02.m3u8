@@ -1,7 +1,7 @@
 ﻿#EXTM3U url-tvg=»http://epg.it999.ru/edem.xml.gz»
 #EXTINF:0,Первый HD
 #EXTGRP:Основные
-http://sdllyhzj.tvclub.xyz/iptv/APRZAQRLFVWDT6/204/index.m3u8
+http://29martakimi.tvclub.xyz/iptv/29martakimi/204/index.m3u8
 #EXTINF:0,Россия HD
 #EXTGRP:Основные
 http://sdllyhzj.tvclub.xyz/iptv/APRZAQRLFVWDT6/205/index.m3u8
