@@ -11,6 +11,12 @@ http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2030/index.m3u8
 #EXTINF:0,Настоящее время
 #EXTGRP:Основные
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/986/index.m3u8
+#EXTINF:0,Союз
+#EXTGRP:Основные
+http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2016/index.m3u8
+#EXTINF:0,СПАС
+#EXTGRP:Основные
+http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/983/index.m3u8
 #EXTINF:0,Первый Ростовский
 #EXTGRP:Основные
 https://live-yugmedia.cdnvideo.ru/yugmedia/streamtr.smil/playlist.m3u8
@@ -22,10 +28,13 @@ https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/15285/index.m3u8
 #EXTINF:0,Кубань 24
 #EXTGRP:Основные
-https://stream.kuban24.tv:1500/hls/stream.m3u8
+http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/16019/index.m3u8
 #EXTINF:0,Краснодар HD
 #EXTGRP:Основные
 https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:Основные
+http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2107/index.m3u8
 #EXTINF:0,Первый HD
 #EXTGRP:Основные
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
@@ -38,54 +47,60 @@ https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Основные
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/213/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал HD
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/9096/index.m3u8
 #EXTINF:0,Пятница! HD
 #EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/5031/index.m3u8
-#EXTINF:0,ТВ3 HD
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/5033/index.m3u8
-#EXTINF:0,Мир 24 HD
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2107/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС HD
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/6303/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС International
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/15228/index.m3u8
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/5031/index.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/237/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ4 HD
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/237/index.m3u8
+#EXTINF:0,ТНТ4 HD
 #EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/6370/index.m3u8
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/6370/index.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/6303/index.m3u8
+#EXTINF:0,СТС International
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/15228/index.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP:Основные
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2024/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний HD
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/15116/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда HD
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/15115/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВЦ HD
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/9095/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ International
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/15229/index.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Основные
+http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/5033/index.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/15227/index.m3u8
+#EXTINF:0,Че
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/513/index.m3u8
+#EXTINF:0,Продвижение
+#EXTGRP:Основные
+http://uqriflww.megogo.xyz/iptv/9VN7WTSYVP8MLN/851/index.m3u8
 #EXTINF:0,360° HD
 #EXTGRP:Основные
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2065/index.m3u8
-#EXTINF:0,Мир HD
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/235/index.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Основные
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2086/index.m3u8
-#EXTINF:0 tvg-rec="0",Перец
+#EXTINF:0,Мир HD
 #EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/15227/index.m3u8
-#EXTINF:0 tvg-rec="7",Че
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/513/index.m3u8
-#EXTINF:0 tvg-rec="7",Продвижение
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/851/index.m3u8
-#EXTINF:0,Союз
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/2016/index.m3u8
-#EXTINF:0,СПАС
-#EXTGRP:Основные
-http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/983/index.m3u8
+http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/15119/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 #EXTGRP:Познавательные
 http://fusbbxeg.tvclub.xyz/iptv/RZ4VZLWU22WRNT/216/index.m3u8
